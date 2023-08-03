@@ -1,0 +1,15 @@
+#CopperCube UDP multiplayer(init.:"odel")#
+[server_port]
+18101
+[client_port]
+18100
+[client_connect_to_IP]
+127.0.0.1
+[IN_file]
+i_in.o
+[OUT_file]
+i_out.o
+[ID_file]
+dreamIds.o
+[Server_Print_Messages_To_Console]
+YES

@@ -1,0 +1,9 @@
+﻿class Main {
+
+    static initializeDreamLibrary() {
+
+
+
+    }
+
+}
